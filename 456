@@ -34,7 +34,7 @@ html, body {
 <body>
 <iframe
   class="app-frame"
-  src="https://script.google.com/macros/s/AKfycbzWQvuaRTRzziDd8mjkMhX8vu0zQzLS488T6diutmnq5_RT3M0CcGmC6eMHcNwsEwZW/exec?authuser=0"
+  src="https://script.google.com/macros/s/AKfycbzWQvuaRTRzziDd8mjkMhX8vu0zQzLS488T6diutmnq5_RT3M0CcGmC6eMHcNwsEwZW/exec"
   allow="geolocation; microphone; camera; clipboard-write;"
   sandbox="allow-forms allow-modals allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-downloads">
 </iframe>
