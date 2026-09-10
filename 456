@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>ระบบลงทะเบียนอบรม</title> 
+<title>ระบบลงทะเบียน</title> 
  
 <!-- ตั้งค่าเปิดเต็มจอเหมือนแอปมือถือ -->
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -34,7 +34,7 @@ html, body {
 <body>
 <iframe
   class="app-frame"
-  src="https://script.google.com/macros/s/AKfycbzWQvuaRTRzziDd8mjkMhX8vu0zQzLS488T6diutmnq5_RT3M0CcGmC6eMHcNwsEwZW/exec"
+  src="https://script.google.com/macros/s/AKfycbzWQvuaRTRzziDd8mjkMhX8vu0zQzLS488T6diutmnq5_RT3M0CcGmC6eMHcNwsEwZW/exec?authuser=0"
   allow="geolocation; microphone; camera; clipboard-write;"
   sandbox="allow-forms allow-modals allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-downloads">
 </iframe>
